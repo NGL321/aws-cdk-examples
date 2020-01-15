@@ -1,4 +1,3 @@
-import cdk = require('@aws-cdk/core');
 import { MyCustomResource } from './my-custom-resource';
 
 /**
